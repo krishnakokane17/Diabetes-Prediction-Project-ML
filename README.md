@@ -13,7 +13,7 @@ Model Selection: Evaluating multiple machine learning algorithms including but n
 Model Training: Training the selected models on the preprocessed dataset and fine-tuning hyperparameters using techniques like cross-validation.
 Model Evaluation: Assessing the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 Model Deployment: Deploying the best-performing model into a production environment, providing an interface for healthcare professionals to input patient data and obtain predictions.
-Implementation:
+# Implementation:
 The project will be implemented using Python programming language and popular libraries such as Pandas, NumPy, Scikit-learn, and TensorFlow/Keras for machine learning tasks. Additionally, Flask or FastAPI will be used for building the web interface for model deployment.
 
 # Usage:
